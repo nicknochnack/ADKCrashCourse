@@ -6,7 +6,7 @@ description: "Complete guide to building agents with Watsonx Orchestrate Agent D
 has_children: true
 ---
 
-# Watsonx Orchestrate Agent Development Kit
+# Watsonx Orchestrate Agent Development Kit (ADK) 
 
 Welcome to the comprehensive guide for building AI agents with Watsonx Orchestrate ADK!
 
