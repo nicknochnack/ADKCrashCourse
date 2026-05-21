@@ -8,8 +8,26 @@ markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 
 # Just the Docs theme configuration
-color_scheme: nil
+color_scheme: dark
 search_enabled: true
+
+# Custom CSS
+aux_links_new_tab: true
+
+# Enable syntax highlighting
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Custom CSS file
+sass:
+  style: compressed
+
+# Add custom CSS
+head_custom: |
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 # Navigation structure
 nav_sort: case_insensitive
