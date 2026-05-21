@@ -1,5 +1,5 @@
 ---
-title: "Watsonx Orchestrate ADK Course"
+title: "Orchestrate ADK Course"
 layout: default
 nav_order: 1
 description: "Building Agents with Watsonx Orchestrate ADK - A comprehensive crash course"
