@@ -1,0 +1,11 @@
+spec_version: v1
+kind: model
+name: anthropic/claude-haiku-4-5
+display_name: Anthropic Claude Haiku 4.5
+description: |
+    Anthropic Claude model for safe and helpful AI interactions.
+tags:
+- anthropic
+- claude
+model_type: chat
+provider_config: {}

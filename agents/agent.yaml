@@ -1,0 +1,6 @@
+spec_version: v1
+kind: native 
+name: nicks_stock_agent
+description: a stock research agent that can find stock prices, stock info and income details
+llm: watsonx/meta-llama/llama-4-maverick-17b-128e-instruct-fp8
+style: react
