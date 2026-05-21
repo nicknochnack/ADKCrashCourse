@@ -3,7 +3,6 @@ layout: default
 title: "Setup & Installation"
 nav_order: 2
 description: "Getting started with Watsonx Orchestrate ADK"
-parent: "Watsonx Orchestrate ADK"
 ---
 
 # Setup & Installation

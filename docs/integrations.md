@@ -3,7 +3,6 @@ layout: default
 title: "Integrations"
 nav_order: 5
 description: "Integrate Langflow, third-party models, and external agents"
-parent: "Watsonx Orchestrate ADK"
 ---
 
 # Integrations

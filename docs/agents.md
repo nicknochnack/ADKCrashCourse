@@ -3,7 +3,6 @@ layout: default
 title: "Creating Agents"
 nav_order: 3
 description: "Build agents programmatically with YAML configurations"
-parent: "Watsonx Orchestrate ADK"
 ---
 
 # Creating Agents Programmatically

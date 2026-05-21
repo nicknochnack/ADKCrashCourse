@@ -3,7 +3,6 @@ layout: default
 title: "Building Python Tools"
 nav_order: 4
 description: "Create custom Python tools for your agents"
-parent: "Watsonx Orchestrate ADK"
 ---
 
 # Building Python Tools
